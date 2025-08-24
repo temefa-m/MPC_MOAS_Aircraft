@@ -18,7 +18,7 @@ MOAS is approximated by checking output constraint satisfaction over a finite pr
 - `main.m`         : Example script demonstrating MPC simulation and MOAS visualization.
 
 ## Requirements
-- MATLAB R2023a or newer.
+- MATLAB R2021b or newer.
 
 ## Purpose
 Educational project demonstrating hands-on implementation of MPC and MOAS for control systems.
